@@ -20,4 +20,4 @@ class Solution(object):
          
 
 obj=Solution()
-print(obj.firstUniqChar("leetcode"))
+print(obj.firstUniqChar("leetcode")) 
