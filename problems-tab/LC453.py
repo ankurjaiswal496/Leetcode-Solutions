@@ -8,8 +8,8 @@ class Solution:
             nums[i]+=1
             nums[i+1]+=1
             count+=1
-        if 
-        print(nums)
+        if s==1:
+            print(nums)
             
 
 obj=Solution()
