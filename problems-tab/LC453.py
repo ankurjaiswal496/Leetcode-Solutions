@@ -8,7 +8,7 @@ class Solution:
             nums[i]+=1
             nums[i+1]+=1
             count+=1
-        if s==1:
+        if count==1:
             print(nums)
             
 
